@@ -1,0 +1,26 @@
+
+/**define el tamaño del diseño a 1280 px**/
+@media (min-width: 1280px) { 
+
+    body{
+        width: 1280px;
+        margin: 0 auto;
+    }
+    
+
+ }
+body{
+    width: 1280px;
+    margin: 0 auto;
+}
+
+/** cambia el flujo del html pudiendo flotar los elementos a la izquerda**/
+
+.float{
+    float:left;
+}
+
+/** limpia el flujo del html luego de usar floats**/
+.clear{
+    clear:both;
+}

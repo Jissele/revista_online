@@ -1,0 +1,36 @@
+
+.noticias-destacadas {
+    margin-bottom: 3.125rem;
+}
+
+.noticias-destacadas img {
+    width: 13.75rem;
+    height: 12.5rem;
+}
+.tags {
+    border-bottom: .0625rem  $solid-gray;
+}
+
+.tags ul {
+    padding: 0;
+    list-style: none;
+}
+
+.tags ul li {
+    padding: .125rem .25rem;
+    background-color: $steelblue;
+    margin-right: 1px;
+    color: $white;
+    
+
+    }
+    .listado-izquierdo {
+        width: 13.75rem;
+        float: right;
+    }
+    
+    .cabecera-listado {
+        width: 13.75rem;
+        border-bottom: 1px $solid-gray;
+    }
+    
